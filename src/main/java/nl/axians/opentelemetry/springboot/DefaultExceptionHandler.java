@@ -22,7 +22,6 @@ public class DefaultExceptionHandler {
                 "errorMessage": "%s"
             }""";
 
-
     private final Tracer tracer;
 
     /**
