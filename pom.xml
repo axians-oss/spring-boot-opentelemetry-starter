@@ -9,7 +9,7 @@
         <relativePath />
     </parent>
 
-    <artifactId>axians-opentelemetry-spring-boot-starter</artifactId>
+    <artifactId>opentelemetry-spring-boot-starter</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 
     <name>Axians :: Spring Boot :: OpenTelemetry Starter</name>
